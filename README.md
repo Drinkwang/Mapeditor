@@ -1,7 +1,5 @@
 # Mapeditor
-this is Mepeditor Project
-# Mapeditor
-this is Mepeditor Project
+this is Mepeditor Project，base on MIT openSource ,welcome to use
 <p align="center">
     <img width="400px" src="https://github.com/Drinkwang/drinkwang.github.io/blob/master/img/git.png?raw=true">    
 </p>
